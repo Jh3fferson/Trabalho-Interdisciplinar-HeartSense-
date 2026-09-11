@@ -1,5 +1,5 @@
-// Nesse projeto inicial feito no TinkerCad, não possúi todos os componentes
-// Então usaremos outros para sua representação.
+// Nesse projeto inicial usamos o Tinkercad, que não possui todos os componentes.
+// Então foram usados outros componetes de forma representativa.
 // O Arduíno representa o ESP32.
 // Sensor de temperatura representa o sensor MAX30102.
 // A tela LCD 16 x 2(I2C) representa a o Display OLED 0,96". 
